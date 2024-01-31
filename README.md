@@ -3,7 +3,7 @@
   </div>
 </div>
 
-<Style>
+<style>
 .card {
  width: 190px;
  height: 254px;
@@ -27,4 +27,4 @@
 
 .card:hover {
  box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
-}</Style>
+}</style>
