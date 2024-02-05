@@ -4,8 +4,7 @@
 This is a simple Library Management System implemented in Java, using JDBC for database connectivity and MySQL as the backend database. Maven is used as the build tool for managing dependencies and project structure.
 
 ## Features
-- User authentication
-- Book management (add, delete, update)
+- Book management (Search ,add, delete, update)
 - Borrow and return books
 - View user and book information
 
