@@ -2,8 +2,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <center>
   <div class="card">
-  <img src="![image](https://github.com/AmineRaouane/Library-Management-System/assets/152157609/97489a54-a159-4c6c-959a-89520765b108)
-" alt="Image Description" style="width: 100%;height:100%; object-fit: cover; border-radius: 10px 10px 0 0;">
+  <img src="https://i.pinimg.com/564x/27/72/d7/2772d7c005983824a733db78eec793ac.jpg" alt="Image Description" style="width: 100%;height:100%; object-fit: cover; border-radius: 10px 10px 0 0;">
 </div></center>
 
 ## Overview
