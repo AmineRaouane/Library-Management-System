@@ -22,4 +22,4 @@ This is a simple Library Management System implemented in Java, using JDBC for d
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/library-management-java.git
+   git clone https://github.com/AmineRaouane/Library-Management-System.git
